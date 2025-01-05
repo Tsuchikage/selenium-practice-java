@@ -1,7 +1,7 @@
 # selenium-practice-java
 
-### Конфигурация Test automation framework с помощью Selenium WebDriver. Создание тестовых наборов с помощью TestNG. Отладка распространенных сбоев в тестировании Selenium WebDriver.
+### Configuration of a Test Automation Framework using Selenium WebDriver. Creating test suites with TestNG. Debugging common failures in Selenium WebDriver testing.
 
-## Описание
+## Description
 
-Этот проект предназначен для практики автоматизации тестирования с использованием Selenium WebDriver и TestNG. Он включает в себя примеры тестов для различных сценариев, таких как позитивные и негативные тесты, а также тесты для проверки логина.
+This project is designed for practicing test automation using Selenium WebDriver and TestNG. It includes examples of tests for various scenarios, such as positive and negative tests, as well as tests for login verification.
