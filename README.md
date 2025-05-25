@@ -1,4 +1,4 @@
-# selenium-practice-java
+# Selenium Practice Java
 
 ### Configuration of a Test Automation Framework using Selenium WebDriver. Creating test suites with TestNG. Debugging common failures in Selenium WebDriver testing.
 
